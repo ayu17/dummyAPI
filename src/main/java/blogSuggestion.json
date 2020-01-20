@@ -1,0 +1,13 @@
+{
+  "id":1,
+  "uniqueId": "string",
+  "blogId": "string",
+  "blogUId": "string",
+  "suggestion": "string",
+  "status":0,
+  "createDateTime": "Date",
+  "updateDateTime": "Date",
+  "deleteDateTime": "Date",
+  "adminId": 1,
+  "adminName": "string"
+}

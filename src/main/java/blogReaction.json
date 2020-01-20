@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "blogId": 1,
+  "blogUId": "string",
+  "reaction": "true",
+  "reacterId": 0,
+  "reacterName": "string"
+}

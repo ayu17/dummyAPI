@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "uId": "string",
+  "bloggerId": "string",
+  "title": "string",
+  "text": "string",
+  "details": "string",
+  "createDateTime": "Date",
+  "updateDateTime": "Date",
+  "deleteDateTime": "Date",
+  "status": 0
+}

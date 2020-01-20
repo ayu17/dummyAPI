@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "uniqueId": "string",
+  "blogId": "string",
+  "blogUId": "string",
+  "comment": "string",
+  "createDateTime": "Date",
+  "updateDateTime": "Date",
+  "deleteDateTime": "Date",
+  "commenterId":1,
+  "commenterName": "string"
+}
